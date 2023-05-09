@@ -1,0 +1,11 @@
+jupyter notebook
+   select lipid-exercise.ipynb
+
+The notebook tries to load the figure: lipidintro.png which should be in the
+same folder.
+
+or
+
+python3 -i lipid.py
+or
+nrngui -python lipid.py
